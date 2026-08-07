@@ -1,6 +1,6 @@
 
 # Querying Polyobjects
-In this proof of concept study, we consider storing small sets of images in a database as entities (gMSED object) in their own right, which can be the target of queries in a symmetric manner.
+In this proof of concept study, we consider storing small sets of images in a database as entities (gMSED object) in their own right, which can be the target of queries in a symmetric manner. The intent is to find images from the database that share common properties with each element of the queried image.
 
 ## Experimental Replication Guide
 
